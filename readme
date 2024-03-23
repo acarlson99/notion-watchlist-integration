@@ -1,0 +1,11 @@
+simple project to auto-populate Notion readlist/watchlist using different APIs
+
+should add apis, but i cant be bothered rn
+
+- TODO:
+- [ ] add APIs (ideally free ones)-- API needs to get author (and ideally picture and other info) given a title
+    - [ ] books
+    - [ ] movies
+    - [ ] video games
+- [ ] deployment
+    - [ ] create dockerfile nix or smth
